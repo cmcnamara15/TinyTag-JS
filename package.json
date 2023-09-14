@@ -1,0 +1,29 @@
+{
+  "name": "tinytag_javascript",
+  "version": "1.0.0",
+  "description": "Read music meta data and length of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA and Wave files",
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test1": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmcnamara15/TinyTag_JavaScript.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/cmcnamara15/TinyTag_JavaScript/issues"
+  },
+  "homepage": "https://github.com/cmcnamara15/TinyTag_JavaScript#readme",
+  "dependencies": {
+    "axios": "^1.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.49.0",
+    "jest": "^29.7.0"
+  }
+}
